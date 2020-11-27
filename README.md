@@ -1,5 +1,8 @@
 <b>What is this board?</b>
 
+![](w&c.PNG)
+
+
 This is a drop in replacement board for the Anycubic Wash and Cure station that is used in conjunction with resin 3D Printers to clean and cure the resin prints after removing them form the printer. 
 
 <b>How did this board came to life ?</b>
