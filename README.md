@@ -32,6 +32,25 @@ This board in conjuction with some Arduino knowledge will allow you to tailor th
 The software and the pinout of the board is open sourced and you can see all the details you need here in order to play with the software yourself. 
 Of course I can not be held responsible if you damage the board while doing this but I can give you some tips like : Make sure the UV and FAN pins are allways pulled low when your program starts or otherwise it will damage the mosfet and you will need to replace it. 
 
+<b> Board specifications :</b>
+
+Controller/ Processor : ESP32
+
+Motor Driver : Stick driver compatible with A4988 or DRV8825 ( Comes with A4988)
+
+Input Power : 12V DC
+
+Screen : 0,96' Monchrome OLED
+
+Configurable buttons : 3 ( 1 acts also a programming mode button) 
+
+Switching for UV and Fan : Thru Mosfets triggered by GPIO Pins
+
+Programming port : 3 pin RS232 @3.3v (RX,TX,GND)
+
+Same ports as the original board from the Wash and Cure .
+
+
 <b> Needed software and libraries to work with this board : </b>
 
 IDE : Arduino 1.8.3 ( I assume it will work with others like PlatformIO but I have not tested it so I warrant for Arduino IDE on Windows 10 , MacOS Catalina and linux flavours based on Ubuntu 20.04)
