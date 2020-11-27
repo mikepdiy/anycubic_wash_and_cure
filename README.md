@@ -42,3 +42,8 @@ Libraries :
 -Adafruit SSD 1306
 -Adafvruit GFX
 -DNSServer ( possibly included in the ESP32 BSP)
+
+
+<b> Where to buy the board </b>
+
+Tindie Link Here
