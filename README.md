@@ -61,9 +61,13 @@ Board BSP : ESP32
 Libraries : 
 
 -ESPUI
+
 -AccelStepper
+
 -Adafruit SSD 1306
+
 -Adafvruit GFX
+
 -DNSServer ( possibly included in the ESP32 BSP)
 
 
