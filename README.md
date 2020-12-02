@@ -24,6 +24,7 @@ So not so many issues but using the machine very often these became real issues 
 4. Adds and OLED Display that give information about the ongoing process but also about the process of pairing the station to the Wi-fi Network. 
 5. Allows any person with the knowledge to imrpove the software and share with the others . 
 6. Comes with a basic but fully functional software preladed and tested . 
+7. Fully coated in anti corosive material "just in case" .
 
 <b>Why to buy this board ? </b>
 
@@ -34,7 +35,7 @@ Of course I can not be held responsible if you damage the board while doing this
 
 <b> Board specifications :</b>
 
-Controller/ Processor : ESP32
+Controller/ Processor : ESP32 ( Dual core version)
 
 Motor Driver : Stick driver compatible with A4988 or DRV8825 ( Comes with A4988)
 
