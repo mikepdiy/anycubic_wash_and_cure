@@ -19,7 +19,7 @@ So not so many issues but using the machine very often these became real issues 
 
 <b>What the new board does : </b>
 1. Starts and allows you to decide what you want to do ( wash or cure) and to do that you just need to press the corresponding button for Wash or Cure . 
-2. Uses wi-fi to connect to my home network and allows me to configure the time for washing and curing from a nice web interface . 
+2. Uses wi-fi to create an Acces Point to which you can connect to configure the time for washing and curing from a nice web interface . (you can also programm it to connect to your own wi-fi network).
 3. Maintains all the functionality of the original board in terms of safety.
 4. Adds and OLED Display that give information about the ongoing process but also about the process of pairing the station to the Wi-fi Network. 
 5. Allows any person with the knowledge to imrpove the software and share with the others . 
@@ -49,7 +49,7 @@ Switching for UV and Fan : Thru Mosfets triggered by GPIO Pins
 
 Programming port : 3 pin RS232 @3.3v (RX,TX,GND)
 
-Same ports as the original board from the Wash and Cure .
+Same ports(and connectors) as the original board from the Wash and Cure .
 
 
 <b> Needed software and libraries to work with this board : </b>
@@ -62,7 +62,7 @@ Libraries :
 
 -ESPUI
 
--AccelStepper
+-AccelStepper v1.61
 
 -Adafruit SSD 1306
 
