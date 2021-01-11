@@ -73,4 +73,4 @@ Libraries :
 
 <b> Where to buy the board </b>
 
-Tindie Link Here
+https://www.tindie.com/products/22251/
