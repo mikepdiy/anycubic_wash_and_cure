@@ -13,7 +13,7 @@ For some of my projects I am using resing 3D printing and I have to use the Anyc
 
 1. In my workflow, I need to cure the resin for 8 minutes but the original board allows only to set 2 , 4 or 6 minutes. 
 2. It always starts when powered up on CURE and not on Washing. I had many times pressed start forgetting I had to switch to wash so I messed a bit my prints. 
-3. I have my printing setup in a location outside and not near my desk so I wanted a way to get informed when the curing or washing was done ( I hate to waste time near the printer and hearing the buzzer sound is not possible from ym desk) . 
+3. I have my printing setup in a location outside and not near my desk so I wanted a way to get informed when the curing or washing was done ( I hate to waste time near the printer and hearing the buzzer sound is not possible from my desk) . 
 
 So not so many issues but using the machine very often these became real issues for my workflow . 
 
