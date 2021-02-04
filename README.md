@@ -73,4 +73,7 @@ Libraries :
 
 <b> Where to buy the board </b>
 
-https://www.tindie.com/products/22251/
+https://www.tindie.com/products/22251/ </br>
+
+</br>
+<a href="https://www.tindie.com/stores/mikepdiy/?ref=offsite_badges&utm_source=sellers_mikepdiy&utm_medium=badges&utm_campaign=badge_large"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-larges.png" alt="I sell on Tindie" width="200" height="104"></a>
